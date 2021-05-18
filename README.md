@@ -7,7 +7,11 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
 
 
 <h3>Talking about my Personal stuffs</h3>
+
     👨🏽‍💻 Currently Working on Twitter Clone
+    
     🌱 Currently Learning Data Structure and Algorithms
+    
     💬 Ask me about anything, I am happy to help
+    
     📫 How to reach me: anshupal258@gmail.com

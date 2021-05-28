@@ -15,3 +15,5 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
    💬 Ask me about anything, I am happy to help
     
    📫 How to reach me: anshupal258@gmail.com
+   
+<a href="https://www.linkedin.com/in/anshu-deve/">Linkedin</a>

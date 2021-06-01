@@ -17,3 +17,5 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
    📫 How to reach me: anshupal258@gmail.com
    
 <a href="https://www.linkedin.com/in/anshu-deve/">Linkedin</a>
+
+![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuUnity&show_icons=true)

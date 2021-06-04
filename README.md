@@ -18,6 +18,4 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
    
 <a href="https://www.linkedin.com/in/anshu-deve/">Linkedin</a>
 
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuUnity&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuUnity)]
+![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuUnity&show_icons=true&theme=dark)

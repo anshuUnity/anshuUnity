@@ -16,10 +16,10 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
     
    📫 How to reach me: anshupal258@gmail.com
    
-<a href="https://www.linkedin.com/in/anshu-deve/">Linkedin</a>
+<a href="https://www.linkedin.com/in/anshu-deve/" target="_blank noopenere noreferer">Linkedin</a>
 
-<a href="https://linktr.ee/anshu.deve">Work</a>
+<a href="https://linktr.ee/anshu.deve" target="_blank noopenere noreferer">Work</a>
 
-Twitter Clone Using django and javascript, <a href="https://github.com/anshuUnity/twitter-clone" target="_blank">View Here!!</a>
+Twitter Clone Using django and javascript, <a href="https://github.com/anshuUnity/twitter-clone" target="_blank noopenere noreferer"">View Here!!</a>
 
 ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuUnity&show_icons=true&theme=dark)

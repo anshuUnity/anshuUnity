@@ -20,6 +20,6 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
 
 <a href="https://linktr.ee/anshu.deve" target="_blank noopenere noreferer">Work</a>
 
-Twitter Clone Using django and javascript, <a href="https://github.com/anshuUnity/twitter-clone" target="_blank noopenere noreferer"">View Here!!</a>
+Twitter Clone Using django and javascript, <a href="https://github.com/anshuUnity/twitter-clone" target="_blank noopenere noreferer">View Here!!</a>
 
 ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuUnity&show_icons=true&theme=dark)

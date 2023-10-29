@@ -8,7 +8,7 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
 
 <h3>Talking about my Personal stuffs</h3>
 
-   👨🏽‍💻 Currently Working on <a href="https://github.com/anshuUnity/whatsapp-clone" target="_blank">Whatsapp Clone</a>
+   👨🏽‍💻 Currently Working on Chat App using <a href="https://github.com/anshuUnity/djangorest-chat-app noopenere noreferer" target="_blank">django channels</a> and <a href="https://github.com/anshuUnity/reactjs-chat-app" target="_blank noopenere noreferer">reactjs</a>
     
    🌱 Currently Learning Data Structure and Algorithms
     

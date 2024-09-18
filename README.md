@@ -8,9 +8,9 @@ As a web developer, I enjoy my obsessive attention to detail, my unequivocal lov
 
 <h3>Talking about my Personal stuffs</h3>
 
-   👨🏽‍💻 Currently Working on Chat App using <a href="https://github.com/anshuUnity/djangorest-chat-app" target="_blank noopenere noreferer">django channels</a> and <a href="https://github.com/anshuUnity/reactjs-chat-app" target="_blank noopenere noreferer">reactjs</a>
+   👨🏽‍💻 Currently Working on Fine tune LLM using <a href="https://github.com/anshuUnity/datascience-notebooks" target="_blank noopenere noreferer">Pytorch and Llama</a>
     
-   🌱 Currently Learning Data Structure and Algorithms
+   🌱 Currently Learning Deep Learning and LLM
     
    💬 Ask me about anything, I am happy to help
     
